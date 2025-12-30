@@ -127,7 +127,7 @@
 [6] ‣ 
 
 [7] 시계열 이론 연구 정리자료
-
+[2021 KPS Fall Meeting.pdf](복잡계이론 기반 AI 연구 및 서비스 개발/2021 KPS Fall Meeting.pdf)
 [8] CPU 병렬 연산용 Fedora Server 구축 매뉴얼 제작
 
 [OpenMPIFedoraServerManual.md](%EB%B3%B5%EC%9E%A1%EA%B3%84%EC%9D%B4%EB%A1%A0%20%EA%B8%B0%EB%B0%98%20AI%20%EC%97%B0%EA%B5%AC%20%EB%B0%8F%20%EC%84%9C%EB%B9%84%EC%8A%A4%20%EA%B0%9C%EB%B0%9C/OpenMPIFedoraServerManual.md)
