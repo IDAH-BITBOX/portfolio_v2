@@ -102,7 +102,7 @@
             - Multi-state voter model (Potts model)
             - Axelrod Model (문화전파 모형)
     - 시뮬레이션 전용 CPU 병렬 연산용 서버 구축
-        - Fedora server $^{[6]}$, OpenMPI$^{[6]}$, RAID system $^{[7]}$ 등
+        - Fedora server $^{[6]}$, OpenMPI $^{[6]}$, RAID system $^{[7]}$ 등
 - *(경희대학교)* **물리학과 졸업**
     - 정보물리학(Python), 전산물리학(Ubuntu, C, OpenGL) 이수
 
