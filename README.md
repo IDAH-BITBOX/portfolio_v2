@@ -14,13 +14,14 @@
 
 ---
 
-## 💼 경력 및 프로젝트
+## 💼 경력
 
 ---
 
 <table>
   <tr>
     <th>회사명</th>
+    <th>재직기간</th>
     <th>직무</th>
     <th>주요 역할</th>
   </tr>
@@ -28,95 +29,35 @@
   <!-- 가려움추적기 -->
   <tr>
     <td><b>(주)딜랏</b></td>
+    <td>2024.10 ~ 2025.09</td>
     <td>테크 리더 (기술 총괄)</td>
     <td>웰니스 AI 서비스 전체 기술 설계 및 구현 총괄</td>
-  </tr>
-  <tr>
-    <td colspan="3">
-      <b>가려움추적기</b> <i>(웰니스 · AI 스타트업)</i><br><br>
-
-      📅 기간: 2024.10 ~ 2025.09
-
-      📝 개요  
-      피부질환 관리를 위한 모바일 앱 및 AI 기반 분석 시스템 전반 설계·구현
-
-      🛠️ Skill
-      Flutter, React, Python, PyTorch, AWS, FastAPI, MySQL, Docker, LangChain, PlatformIO
-
-      🎯 세부 역할
-      - 시계열 예측 및 요인 분석 AI 모델 설계·개발
-      - Python FastAPI 기반 서버 개발 및 서비스 운영
-      - LLM 기반 챗봇 서버 개발 (MVP)
-      - Flutter 기반 모바일 앱 개발 (MVP)
-      - 휴대용 온·습도 센서 HW/SW 개발 (MVP)
   </tr>
   <tr>
   </tr>
   <!-- 휴튼 -->
   <tr>
-    <th>회사명</th>
-    <th>직무</th>
-    <th>주요 역할</th>
-  </tr>
-
-  <tr>
     <td><b>개인 프로젝트</b></td>
+    <td>2023.08 ~ 2024.09</td>
     <td>AI Engineer</td>
     <td>LLM 기반 질문 생성·보정 엔진 개발</td>
-  </tr>
-  <tr>
-    <td colspan="3">
-      <b>휴튼</b> <i>(AI · 앱 서비스 창업)</i><br><br>
-
-      📅 기간: 2023.08 ~ 2024.09
-
-      📝 개요  
-      자기계발을 위한 LLM 기반 질문 생성 및 보정 엔진 개발
-
-      🛠️ Skill
-      Python, PyTorch, Cafe24, FastAPI, HuggingFace, LangChain
-
-      🎯 세부 역할
-      - LLM 기반 질문 생성 엔진 개발
-      - SLM 기반 질문 보정 엔진 설계·구현
   </tr>
   <tr>
   </tr>
   <!-- 스마트운수솔루션 -->
   <tr>
-    <th>회사명</th>
-    <th>직무</th>
-    <th>주요 역할</th>
-  </tr>
-  <tr>
     <td><b>키키아이주식회사</b></td>
+    <td>2022.08 ~ 2023.08</td>
     <td>Data Scientist / Web Developer</td>
     <td>ERP 핵심 로직 및 웹 시스템 개발</td>
   </tr>
   <tr>
-    <td colspan="3">
-      <b>스마트운수솔루션</b> <i>(B2B · ERP 솔루션)</i><br><br>
-
-      📅 기간: 2022.08 ~ 2023.08
-
-      📝 개요  
-      운수업체 운영 효율화를 위한 ERP 및 자동화 로직 개발
-
-      🛠️ Skill  
-      Python, React, AWS, Flask, FastAPI, MySQL, Docker
-
-      🎯 세부 역할
-      - 자동배차 로직 및 자동 휴무 신청 로직 개선
-      - 운행·휴게시간 계산 핵심 로직 개발
-      - 복수 노선·스케줄 조합 로직 설계
-      - ERP 웹 화면 개발 (차량 관리, 근무 상태, 홈/알림 UI)
-
   </tr>
 </table>
 
 ---
 
-## 👨🏻‍💻 개발 & 배포
+## 👨🏻‍💻 프로젝트
 
 ---
 
