@@ -129,36 +129,46 @@
 ---
 
 ## 🔖 References
-[1] [휴튼에 대한 자료](https://github.com/IDAH-BITBOX/portfolio_v2/blob/main/%E1%84%92%E1%85%B2%E1%84%90%E1%85%B3%E1%86%AB%E1%84%8B%E1%85%A6%20%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%AB%20%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD.md)
 
-[2] [자동 배차 로직](https://idah.notion.site/1b6a72f30fa04274a1776b1bcd55d1e8?source=copy_link)
+---
 
-[3] [운행/휴게시간 계산 로직](https://idah.notion.site/ERP-cc9d3c5235a949ec85e09d4d456baa38?source=copy_link)
+### 🧠 서비스 · 앱 프로젝트
 
-[4] [스마트운수솔루션 ERP 화면 개발](https://idah.notion.site/670dc995f3014a51aad4426fc6165e39?source=copy_link)
+- **[1] 휴튼 (LLM 기반 자기계발 앱)**
+  - 📄 [휴튼 프로젝트 개요 및 자료](https://github.com/IDAH-BITBOX/portfolio_v2/blob/main/%E1%84%92%E1%85%B2%E1%84%90%E1%85%B3%E1%86%AB%E1%84%8B%E1%85%A6%20%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%AB%20%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD.md)
 
-[5] 시계열 이론 연구 정리자료
+---
 
-[2021 KPS Fall Meeting.pdf](https://github.com/IDAH-BITBOX/portfolio_v2/blob/main/%E1%84%87%E1%85%A9%E1%86%A8%E1%84%8C%E1%85%A1%E1%86%B8%E1%84%80%E1%85%A8%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A9%E1%86%AB%20%E1%84%80%E1%85%B5%E1%84%87%E1%85%A1%E1%86%AB%20AI%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%80%E1%85%AE%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%89%E1%85%A5%E1%84%87%E1%85%B5%E1%84%89%E1%85%B3%20%E1%84%80%E1%85%A2%E1%84%87%E1%85%A1%E1%86%AF/2021%20KPS%20Fall%20Meeting.pdf)
+### ⚙️ 알고리즘 · 시스템 로직
 
-[Fixation and fluctuations in two-species cooperation.pdf](https://github.com/IDAH-BITBOX/portfolio_v2/blob/main/%E1%84%87%E1%85%A9%E1%86%A8%E1%84%8C%E1%85%A1%E1%86%B8%E1%84%80%E1%85%A8%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A9%E1%86%AB%20%E1%84%80%E1%85%B5%E1%84%87%E1%85%A1%E1%86%AB%20AI%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%80%E1%85%AE%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%89%E1%85%A5%E1%84%87%E1%85%B5%E1%84%89%E1%85%B3%20%E1%84%80%E1%85%A2%E1%84%87%E1%85%A1%E1%86%AF/Fixation%20and%20fluctuations%20in%20two-species%20cooperation.pdf)
+- **[2] 자동 배차 로직**
+  - 📄 [설계 개요 및 구현 설명](https://idah.notion.site/1b6a72f30fa04274a1776b1bcd55d1e8?source=copy_link)
 
-[Universal record statistics for random walks and Lévy flights with a nonzero staying probability.pdf](https://github.com/IDAH-BITBOX/portfolio_v2/blob/main/%E1%84%87%E1%85%A9%E1%86%A8%E1%84%8C%E1%85%A1%E1%86%B8%E1%84%80%E1%85%A8%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A9%E1%86%AB%20%E1%84%80%E1%85%B5%E1%84%87%E1%85%A1%E1%86%AB%20AI%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%80%E1%85%AE%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%89%E1%85%A5%E1%84%87%E1%85%B5%E1%84%89%E1%85%B3%20%E1%84%80%E1%85%A2%E1%84%87%E1%85%A1%E1%86%AF/Universal%20record%20statistics%20for%20random%20walks%20and%20Le%CC%81vy%20flights%20with%20a%20nonzero%20staying%20probability.pdf)
+- **[3] 운행 / 휴게시간 계산 로직**
+  - 📄 [ERP 핵심 시간 계산 알고리즘](https://idah.notion.site/ERP-cc9d3c5235a949ec85e09d4d456baa38?source=copy_link)
 
-[NSPCS_2022_POSTER_v2.pdf](https://github.com/IDAH-BITBOX/portfolio_v2/blob/main/%E1%84%87%E1%85%A9%E1%86%A8%E1%84%8C%E1%85%A1%E1%86%B8%E1%84%80%E1%85%A8%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A9%E1%86%AB%20%E1%84%80%E1%85%B5%E1%84%87%E1%85%A1%E1%86%AB%20AI%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%80%E1%85%AE%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%89%E1%85%A5%E1%84%87%E1%85%B5%E1%84%89%E1%85%B3%20%E1%84%80%E1%85%A2%E1%84%87%E1%85%A1%E1%86%AF/NSPCS_2022_POSTER_v2.pdf)
+- **[4] 스마트운수솔루션 ERP 화면 개발**
+  - 📄 [웹 UI / UX 및 기능 구현](https://idah.notion.site/670dc995f3014a51aad4426fc6165e39?source=copy_link)
 
-[공개발표자료(최종).pdf](https://github.com/IDAH-BITBOX/portfolio_v2/blob/main/%E1%84%87%E1%85%A9%E1%86%A8%E1%84%8C%E1%85%A1%E1%86%B8%E1%84%80%E1%85%A8%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A9%E1%86%AB%20%E1%84%80%E1%85%B5%E1%84%87%E1%85%A1%E1%86%AB%20AI%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%80%E1%85%AE%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%89%E1%85%A5%E1%84%87%E1%85%B5%E1%84%89%E1%85%B3%20%E1%84%80%E1%85%A2%E1%84%87%E1%85%A1%E1%86%AF/%E1%84%80%E1%85%A9%E1%86%BC%E1%84%80%E1%85%A2%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD(%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC).pdf)
+---
 
-[Record Statistics.pdf](https://github.com/IDAH-BITBOX/portfolio_v2/blob/main/%E1%84%87%E1%85%A9%E1%86%A8%E1%84%8C%E1%85%A1%E1%86%B8%E1%84%80%E1%85%A8%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A9%E1%86%AB%20%E1%84%80%E1%85%B5%E1%84%87%E1%85%A1%E1%86%AB%20AI%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%80%E1%85%AE%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%89%E1%85%A5%E1%84%87%E1%85%B5%E1%84%89%E1%85%B3%20%E1%84%80%E1%85%A2%E1%84%87%E1%85%A1%E1%86%AF/Record%20Statistics.pdf)
+### 📚 이론 연구 · 학술 자료
 
-[Generating Function 1.pdf](https://github.com/IDAH-BITBOX/portfolio_v2/blob/main/%E1%84%87%E1%85%A9%E1%86%A8%E1%84%8C%E1%85%A1%E1%86%B8%E1%84%80%E1%85%A8%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A9%E1%86%AB%20%E1%84%80%E1%85%B5%E1%84%87%E1%85%A1%E1%86%AB%20AI%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%80%E1%85%AE%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%89%E1%85%A5%E1%84%87%E1%85%B5%E1%84%89%E1%85%B3%20%E1%84%80%E1%85%A2%E1%84%87%E1%85%A1%E1%86%AF/Generating_function_1.pdf)
+- **[5] 시계열 이론 및 복잡계 연구 자료**
+  - 📄 [2021 KPS Fall Meeting 발표자료](https://github.com/IDAH-BITBOX/portfolio_v2/blob/main/%E1%84%87%E1%85%A9%E1%86%A8%E1%84%8C%E1%85%A1%E1%86%B8%E1%84%80%E1%85%A8%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A9%E1%86%AB%20%E1%84%80%E1%85%B5%E1%84%87%E1%85%A1%E1%86%AB%20AI%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%80%E1%85%AE%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%89%E1%85%A5%E1%84%87%E1%85%B5%E1%84%89%E1%85%B3%20%E1%84%80%E1%85%A2%E1%84%87%E1%85%A1%E1%86%AF/2021%20KPS%20Fall%20Meeting.pdf)
+  - 📄 [Fixation and fluctuations in two-species cooperation](https://github.com/IDAH-BITBOX/portfolio_v2/blob/main/%E1%84%87%E1%85%A9%E1%86%A8%E1%84%8C%E1%85%A1%E1%86%B8%E1%84%80%E1%85%A8%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A9%E1%86%AB%20%E1%84%80%E1%85%B5%E1%84%87%E1%85%A1%E1%86%AB%20AI%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%80%E1%85%AE%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%89%E1%85%A5%E1%84%87%E1%85%B5%E1%84%89%E1%85%B3%20%E1%84%80%E1%85%A2%E1%84%87%E1%85%A1%E1%86%AF/Fixation%20and%20fluctuations%20in%20two-species%20cooperation.pdf)
+  - 📄 [Universal record statistics for random walks and Lévy flights](https://github.com/IDAH-BITBOX/portfolio_v2/blob/main/%E1%84%87%E1%85%A9%E1%86%A8%E1%84%8C%E1%85%A1%E1%86%B8%E1%84%80%E1%85%A8%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A9%E1%86%AB%20%E1%84%80%E1%85%B5%E1%84%87%E1%85%A1%E1%86%AB%20AI%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%80%E1%85%AE%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%89%E1%85%A5%E1%84%87%E1%85%B5%E1%84%89%E1%85%B3%20%E1%84%80%E1%85%A2%E1%84%87%E1%85%A1%E1%86%AF/Universal%20record%20statistics%20for%20random%20walks%20and%20Le%CC%81vy%20flights%20with%20a%20nonzero%20staying%20probability.pdf)
+  - 📄 [NSPCS 2022 Poster](https://github.com/IDAH-BITBOX/portfolio_v2/blob/main/%E1%84%87%E1%85%A9%E1%86%A8%E1%84%8C%E1%85%A1%E1%86%B8%E1%84%80%E1%85%A8%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A9%E1%86%AB%20%E1%84%80%E1%85%B5%E1%84%87%E1%85%A1%E1%86%AB%20AI%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%80%E1%85%AE%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%89%E1%85%A5%E1%84%87%E1%85%B5%E1%84%89%E1%85%B3%20%E1%84%80%E1%85%A2%E1%84%87%E1%85%A1%E1%86%AF/NSPCS_2022_POSTER_v2.pdf)
+  - 📄 [Record Statistics 정리](https://github.com/IDAH-BITBOX/portfolio_v2/blob/main/%E1%84%87%E1%85%A9%E1%86%A8%E1%84%8C%E1%85%A1%E1%86%B8%E1%84%80%E1%85%A8%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A9%E1%86%AB%20%E1%84%80%E1%85%B5%E1%84%87%E1%85%A1%E1%86%AB%20AI%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%80%E1%85%AE%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%89%E1%85%A5%E1%84%87%E1%85%B5%E1%84%89%E1%85%B3%20%E1%84%80%E1%85%A2%E1%84%87%E1%85%A1%E1%86%AF/Record%20Statistics.pdf)
+  - 📄 [Generating Function 1](https://github.com/IDAH-BITBOX/portfolio_v2/blob/main/%E1%84%87%E1%85%A9%E1%86%A8%E1%84%8C%E1%85%A1%E1%86%B8%E1%84%80%E1%85%A8%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A9%E1%86%AB%20%E1%84%80%E1%85%B5%E1%84%87%E1%85%A1%E1%86%AB%20AI%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%80%E1%85%AE%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%89%E1%85%A5%E1%84%87%E1%85%B5%E1%84%89%E1%85%B3%20%E1%84%80%E1%85%A2%E1%84%87%E1%85%A1%E1%86%AF/Generating_function_1.pdf)
+  - 📄 [Generating Function 2](https://github.com/IDAH-BITBOX/portfolio_v2/blob/main/%E1%84%87%E1%85%A9%E1%86%A8%E1%84%8C%E1%85%A1%E1%86%B8%E1%84%80%E1%85%A8%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A9%E1%86%AB%20%E1%84%80%E1%85%B5%E1%84%87%E1%85%A1%E1%86%AB%20AI%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%80%E1%85%AE%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%89%E1%85%A5%E1%84%87%E1%85%B5%E1%84%89%E1%85%B3%20%E1%84%80%E1%85%A2%E1%84%87%E1%85%A1%E1%86%AF/Generating_function_2.pdf)
 
-[Generating Function 2.pdf](https://github.com/IDAH-BITBOX/portfolio_v2/blob/main/%E1%84%87%E1%85%A9%E1%86%A8%E1%84%8C%E1%85%A1%E1%86%B8%E1%84%80%E1%85%A8%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A9%E1%86%AB%20%E1%84%80%E1%85%B5%E1%84%87%E1%85%A1%E1%86%AB%20AI%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%80%E1%85%AE%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%89%E1%85%A5%E1%84%87%E1%85%B5%E1%84%89%E1%85%B3%20%E1%84%80%E1%85%A2%E1%84%87%E1%85%A1%E1%86%AF/Generating_function_2.pdf)
+---
 
-[6] CPU 병렬 연산용 Fedora Server 구축 매뉴얼 제작
+### 🖥️ 인프라 · 시스템 구축
 
-[OpenMPIFedoraServerManual.md](https://github.com/IDAH-BITBOX/portfolio_v2/blob/main/%E1%84%87%E1%85%A9%E1%86%A8%E1%84%8C%E1%85%A1%E1%86%B8%E1%84%80%E1%85%A8%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A9%E1%86%AB%20%E1%84%80%E1%85%B5%E1%84%87%E1%85%A1%E1%86%AB%20AI%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%80%E1%85%AE%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%89%E1%85%A5%E1%84%87%E1%85%B5%E1%84%89%E1%85%B3%20%E1%84%80%E1%85%A2%E1%84%87%E1%85%A1%E1%86%AF/OpenMPIFedoraServerManual.md)
+- **[6] CPU 병렬 연산용 Fedora Server 구축**
+  - 📄 [OpenMPI 기반 병렬 연산 서버 매뉴얼](https://github.com/IDAH-BITBOX/portfolio_v2/blob/main/%E1%84%87%E1%85%A9%E1%86%A8%E1%84%8C%E1%85%A1%E1%86%B8%E1%84%80%E1%85%A8%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A9%E1%86%AB%20%E1%84%80%E1%85%B5%E1%84%87%E1%85%A1%E1%86%AB%20AI%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%80%E1%85%AE%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%89%E1%85%A5%E1%84%87%E1%85%B5%E1%84%89%E1%85%B3%20%E1%84%80%E1%85%A2%E1%84%87%E1%85%A1%E1%86%AF/OpenMPIFedoraServerManual.md)
 
-[7] RAID 시스템 구축 매뉴얼 제작
-
-[RaidSystemFedora.md](https://github.com/IDAH-BITBOX/portfolio_v2/blob/main/%E1%84%87%E1%85%A9%E1%86%A8%E1%84%8C%E1%85%A1%E1%86%B8%E1%84%80%E1%85%A8%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A9%E1%86%AB%20%E1%84%80%E1%85%B5%E1%84%87%E1%85%A1%E1%86%AB%20AI%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%80%E1%85%AE%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%89%E1%85%A5%E1%84%87%E1%85%B5%E1%84%89%E1%85%B3%20%E1%84%80%E1%85%A2%E1%84%87%E1%85%A1%E1%86%AF/RaidSystemFedora.md)
+- **[7] RAID 시스템 구축**
+  - 📄 [Fedora 기반 RAID 구성 매뉴얼](https://github.com/IDAH-BITBOX/portfolio_v2/blob/main/%E1%84%87%E1%85%A9%E1%86%A8%E1%84%8C%E1%85%A1%E1%86%B8%E1%84%80%E1%85%A8%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A9%E1%86%AB%20%E1%84%80%E1%85%B5%E1%84%87%E1%85%A1%E1%86%AB%20AI%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%80%E1%85%AE%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%89%E1%85%A5%E1%84%87%E1%85%B5%E1%84%89%E1%85%B3%20%E1%84%80%E1%85%A2%E1%84%87%E1%85%A1%E1%86%AF/RaidSystemFedora.md)
