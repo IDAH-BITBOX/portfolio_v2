@@ -35,15 +35,15 @@
     <td colspan="3">
       <b>가려움추적기</b> <i>(웰니스 · AI 스타트업)</i><br><br>
 
-      📅 **기간**: 2024.10 ~ 2025.09
+      📅 기간: 2024.10 ~ 2025.09
 
-      📝 **개요**  
+      📝 개요  
       피부질환 관리를 위한 모바일 앱 및 AI 기반 분석 시스템 전반 설계·구현
 
-      🛠️ **Skill**  
+      🛠️ Skill
       Flutter, React, Python, PyTorch, AWS, FastAPI, MySQL, Docker, LangChain, PlatformIO
 
-      🎯 **세부 역할**
+      🎯 세부 역할
       - 시계열 예측 및 요인 분석 AI 모델 설계·개발
       - Python FastAPI 기반 서버 개발 및 서비스 운영
       - LLM 기반 챗봇 서버 개발 (MVP)
