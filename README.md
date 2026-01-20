@@ -89,10 +89,11 @@
 
 ---
 
-| 학력 |
+|  |
 |---|
 | **경희대학교 · 복잡계 정보이론 연구실**<br>*(석사 졸업)* |
 | 📅 **기간**: 2020.09 ~ 2022.08<br>🎓 **학점**: 3.9 / 4.3<br><br>🧠 **연구·전공 분야**: 시계열 이론 · 복잡계<br><br>📝 **연구 내용**<br>- **연구 주제**: 신기록 경신 통계이론 (Record Statistics)<br>- **이론 모델**: Random Walk, Drifted Random Walk, Drifted RW with non-zero origin staying probability<br>- **실증 데이터**: KRX 한국 주식시장 종가, 서울시 부동산 거래가격<br><br>🕸️ **네트워크 이론 / 시뮬레이션**<br>- Graph 기반 Network Theory 학습 및 C 언어 구현<br>- Periodic squared lattice, Erdős–Rényi, Barabási–Albert, Static network<br>- Multi-state voter model (Potts), Axelrod Model<br><br>🖥️ **인프라 구축**<br>- Fedora Server 기반 CPU 병렬 연산 서버 구축<br>- OpenMPI, RAID 시스템 구성 |
+|  |
 | **경희대학교 · 물리학과**<br>*(학사 졸업)* |
 | 📅 **기간**: 2014.03 ~ 2020.08<br>🎓 **학점**: 3.3 / 4.3<br><br>🧠 **전공**: 물리학<br><br>📘 **이수 과목**<br>- 정보물리학 (Python)<br>- 전산물리학 (Ubuntu, C, OpenGL) |
 
