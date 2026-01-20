@@ -53,6 +53,12 @@
 
   <!-- 휴튼 -->
   <tr>
+    <th>회사명</th>
+    <th>직무</th>
+    <th>주요 역할</th>
+  </tr>
+
+  <tr>
     <td><b>개인 프로젝트</b></td>
     <td>AI Engineer</td>
     <td>LLM 기반 질문 생성·보정 엔진 개발</td>
@@ -75,6 +81,11 @@
   </tr>
 
   <!-- 스마트운수솔루션 -->
+  <tr>
+    <th>회사명</th>
+    <th>직무</th>
+    <th>주요 역할</th>
+  </tr>
   <tr>
     <td><b>키키아이주식회사</b></td>
     <td>Data Scientist / Web Developer</td>
