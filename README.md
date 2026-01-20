@@ -51,33 +51,40 @@
 
 ## 👨🏻‍💻 개발 & 배포
 
-### 🧠 AI 모델 개발 & 배포
+---
 
-- **시계열 예측 모델**: Temporal Convolution Network기반 요인 파악 레이어 포함된 시계열 예측 모델 개발
-- **LLM 기반 챗봇 서버**: LangChain으로 사용자 질의응답 및 대화형 서비스 구축 및 배포
-- **질문 생성 엔진**: 질문/키워드 그래프 + LLM 기반 자동 질문 생성 및 서비스화
-- **SLM Fine-tuning**: 질문 보정 엔진 개발 및 모델을 서버에 배포
+### 🧠 AI 모델 개발 & 배포
+| 구분 | 내용 |
+|---|---|
+| 시계열 예측 모델 | Temporal Convolution Network(TCN) 기반 시계열 예측 모델 개발<br>요인 파악 레이어 포함 구조 설계 |
+| LLM 기반 챗봇 서버 | LangChain 기반 사용자 질의응답 및 대화형 서비스 구축 및 배포 |
+| 질문 생성 엔진 | 질문/키워드 그래프 + LLM 기반 자동 질문 생성 엔진 개발 및 서비스화 |
+| SLM Fine-tuning | 질문 보정 엔진 개발 및 SLM Fine-tuning 수행, 모델 서버 배포 |
+
+---
 
 ### ⚙️ 백엔드 개발 & 배포
+| 구분 | 내용 |
+|---|---|
+| ERP 전용 서버 | Python + MySQL 기반 핵심 알고리즘 처리 서버 개발<br>AWS ECS(Fargate) 환경 배포 및 운영 |
+| 피부질환 관리앱 서버 | 전용 API 서버 개발<br>AWS ECS(Fargate) 방식 배포<br>CDN + S3 조합으로 랜딩페이지 배포 |
 
-- **ERP 전용 서버 (Python + MySQL)**
-    - 핵심 알고리즘 처리 서버 개발
-    - AWS ECS(Fargate) 환경에 배포 및 운영
-- **피부질환 관리앱 서버**
-    - 전용 API 서버 개발
-    - AWS ECS에 Fargate 방식으로 배포
-    - CDN + S3 조합으로 랜딩페이지 배포
+---
 
 ### 📡 센서 소프트웨어 개발
+| 구분 | 내용 |
+|---|---|
+| 휴대용 온습도계 | 블루투스 기반 휴대용 온습도 센서 시제품 개발 |
+| 환경 센서 보드 | 온습도·미세먼지·유기화학물질 측정 올인원 센서 보드<br>센서 데이터 수집 및 소프트웨어 개발 |
 
-- **블루투스 기반 휴대용 온습도계 시제품 개발**
-- **올인원 환경 센서 보드** (온습도, 미세먼지, 유기화학물질)
-    - 센서 데이터 수집 및 소프트웨어 개발
+---
 
 ### 🌐 웹 개발 & 배포
+| 구분 | 내용 |
+|---|---|
+| ERP 웹 개발 | 운수업체 전용 ERP 웹 개발<br>데이터 관리 및 분석 기능 포함, 웹 앱 구축 및 배포 |
+| 랜딩페이지 | 피부질환 관리앱 랜딩페이지 개발<br>사용자 친화적 UI/UX 중심 웹 구축 및 배포 |
 
-- **ERP 웹 개발 (운수업체 전용)**: 데이터 관리/분석 기능 포함, 웹 앱 구축 및 배포
-- **피부질환 관리앱 랜딩페이지**: 사용자 친화적 UI/UX 중심 웹 구축 및 배포
 
 ---
 
@@ -93,25 +100,27 @@
 
 ## 📚 Knowledge & Study
 
-- *(경희대학교)* **복잡계 정보이론 연구실 석사졸업**
-    - 다양한 시계열에서의 신기록경신 통계이론 연구 $^{[5]}$
-        - random walk
-        - drifted random walk
-        - drifted random walk with non-zero origin staying prob
-        - Real data: KRX 한국 주식 시장 종가 데이터, 서울시 부동산 시장 거래가격 데이터
-    - Network Theory(graph) 공부 / 다양한 network C 구현 / 시뮬레이션
-        - 공부/구현한 networks:
-            - Periodic squared lattice
-            - Erdos-Renyi random network
-            - Barabasi-Albert network
-            - static network
-        - 시뮬레이션:
-            - Multi-state voter model (Potts model)
-            - Axelrod Model (문화전파 모형)
-    - 시뮬레이션 전용 CPU 병렬 연산용 서버 구축
-        - Fedora server $^{[6]}$, OpenMPI $^{[6]}$, RAID system $^{[7]}$ 등
-- *(경희대학교)* **물리학과 졸업**
-    - 정보물리학(Python), 전산물리학(Ubuntu, C, OpenGL) 이수
+---
+
+### 🎓 경희대학교 · 복잡계 정보이론 연구실 (석사 졸업)
+| 항목 | 내용 |
+|---|---|
+| 연구 분야 | 다양한 시계열 데이터에서의 **신기록 경신 통계이론(Record Statistics)** 연구 |
+| 이론 모델 | - Random Walk<br>- Drifted Random Walk<br>- Drifted Random Walk with non-zero origin staying probability |
+| 실증 데이터 | - KRX 한국 주식시장 종가 데이터<br>- 서울시 부동산 시장 거래가격 데이터 |
+| 네트워크 이론 | Graph 기반 Network Theory 학습 및 C 언어 구현 |
+| 구현한 네트워크 | - Periodic squared lattice<br>- Erdős–Rényi random network<br>- Barabási–Albert network<br>- Static network |
+| 시뮬레이션 | - Multi-state voter model (Potts model)<br>- Axelrod Model (문화 전파 모형) |
+| 인프라 구축 | 시뮬레이션 전용 CPU 병렬 연산 서버 구축<br>- Fedora Server<br>- OpenMPI<br>- RAID 시스템 구성 |
+
+---
+
+### 🎓 경희대학교 · 물리학과 (학사 졸업)
+| 항목 | 내용 |
+|---|---|
+| 전공 | 물리학 |
+| 이수 과목 | - 정보물리학 (Python)<br>- 전산물리학 (Ubuntu, C, OpenGL) |
+
 
 ---
 
