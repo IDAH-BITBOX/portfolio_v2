@@ -63,7 +63,6 @@
 
 |  |
 |---|
-|  |
 | **[웰니스 · AI] 가려움 요인 파악 및 예측 AI 서비스**<br>**가려움추적기 / (주)딜랏** |
 | **프로젝트 유형**: 실서비스 개발 · AI 연구 · 특허 출원<br>**기간**: 2024.10 ~ 2025.09<br><br>📌 **개요**<br>피부질환 사용자의 가려움 증상을 정량화하고, 환경·행동 요인을 기반으로 가려움 발생 패턴을 분석·예측하는 모바일 AI 서비스 개발<br><br>🛠️ **사용 기술**<br>Python, PyTorch, FastAPI, MySQL, Flutter, React, AWS(ECS Fargate, S3, CDN), LangChain, PlatformIO<br><br>🎯 **주요 역할**<br>- TCN 기반 시계열 예측 및 요인 파악 AI 모델 설계·개발<br>- FastAPI 기반 서버 개발 및 운영 (보안 설정, 성능 최적화)<br>- 이미지 업로드 비동기 처리로 업로드 속도 **30% 이상 개선**<br>- DB/로직 최적화로 홈 로딩 **3초 → 1초 내외 개선**<br>- Flutter 앱 개발 및 휴대용 온·습도 센서 시제품 개발<br>- 5인 개발팀 기술 리딩 및 의사결정 지원<br><br>📊 **성과**<br>- ETT 기준 **MSE 0.409 / MAE 0.413 (horizon 192)**<br>- 가려움 요인 파악 로직 및 AI 아키텍처 **특허 출원**<br>- 앱 출시 및 실제 운영 경험 확보 |
 |  |
@@ -74,7 +73,6 @@
 |  |
 | **[B2B · 데이터] 운수업체 ERP 및 핵심 알고리즘 개발**<br>**스마트운수솔루션 / 키키아이주식회사** |
 | **프로젝트 유형**: B2B ERP 개발 · 데이터 분석<br>**기간**: 2022.08 ~ 2023.08<br><br>📌 **개요**<br>운수업체의 배차·근무·휴게·차량 관리를 자동화하고 법정 제출 자료 생성을 지원하는 ERP 시스템 개발<br><br>🛠️ **사용 기술**<br>Python, FastAPI, MySQL, ReactJS, AWS<br><br>🎯 **주요 역할**<br>- 버스 배차 간격에 대한 **Random Walk 기반 통계 모델 고안**<br>- 배차 시간표 자동 수정 알고리즘 개발 (확장성 고려)<br>- 운행·휴게시간 분석 및 월간 제출 자료 자동 생성 서비스 구축<br>- 근무·연차·출근·차량·자원 관리 ERP 웹 페이지 개발<br>- Python + FastAPI 서버 및 MySQL 데이터 모델링<br><br>📊 **성과**<br>- 운수업체 행정 업무 자동화 및 운영 효율 개선<br>- 실제 운수업체 환경에서 **실사용 ERP 서비스 구축** |
-|  |
 |  |
 
 
@@ -96,14 +94,12 @@
 
 |  |
 |---|
-|  |
 | **경희대학교 · 복잡계 정보이론 연구실**<br>*(석사 졸업)* |
 | 📅 **기간**: 2020.09 ~ 2022.08<br>🎓 **학점**: 3.9 / 4.3<br><br>🧠 **연구·전공 분야**: 시계열 이론 · 복잡계<br><br>📝 **연구 내용**<br>- **연구 주제**: 신기록 경신 통계이론 (Record Statistics)<br>- **이론 모델**: Random Walk, Drifted Random Walk, Drifted RW with non-zero origin staying probability<br>- **실증 데이터**: KRX 한국 주식시장 종가, 서울시 부동산 거래가격<br><br>🕸️ **네트워크 이론 / 시뮬레이션**<br>- Graph 기반 Network Theory 학습 및 C 언어 구현<br>- Periodic squared lattice, Erdős–Rényi, Barabási–Albert, Static network<br>- Multi-state voter model (Potts), Axelrod Model<br><br>🖥️ **인프라 구축**<br>- Fedora Server 기반 CPU 병렬 연산 서버 구축<br>- OpenMPI, RAID 시스템 구성 |
 |  |
 |  |
 | **경희대학교 · 물리학과**<br>*(학사 졸업)* |
 | 📅 **기간**: 2014.03 ~ 2020.08<br>🎓 **학점**: 3.3 / 4.3<br><br>🧠 **전공**: 물리학<br><br>📘 **이수 과목**<br>- 정보물리학 (Python)<br>- 전산물리학 (Ubuntu, C, OpenGL) |
-|  |
 |  |
 
 
