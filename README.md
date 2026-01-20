@@ -17,38 +17,11 @@
 ## 💼 경력 및 프로젝트
 
 ---
-
-### [웰니스 · AI 스타트업] 가려움추적기 ((주)딜랏)
-| 항목 | 내용 |
-|---|---|
-| **서비스명 / 회사명** | 가려움추적기 / (주)딜랏 |
-| **1) 작업기간 / 인원** | 2024.10 ~ 2025.09 / 2명 ~ 6명 |
-| **2) 업무 개요** | 피부질환 관리를 위한 모바일 앱 및 AI 기반 분석 시스템 전반 설계·구현 |
-| **3) Skill** | Flutter, React, Python, PyTorch, AWS, FastAPI, MySQL, Docker, LangChain, PlatformIO |
-| **4) 주요 역할** | **테크 리더 (기술 총괄)**<br>- 시계열 예측 및 요인 분석 AI 모델 설계·개발 (진행 중)<br>- Python FastAPI 기반 서버 개발 및 서비스 운영<br>- LLM 기반 챗봇 서버 개발 (MVP)<br>- Flutter 기반 모바일 앱 개발 (MVP)<br>- 휴대용 온·습도 센서 HW/SW 개발 (MVP) |
-
----
-
-### [AI · 앱 서비스 창업] 휴튼 (개인 프로젝트)
-| 항목 | 내용 |
-|---|---|
-| **서비스명 / 회사명** | 휴튼 / 개인 프로젝트 |
-| **1) 작업기간 / 인원** | 2023.08 ~ 2024.09 / 2명 |
-| **2) 업무 개요** | 자기계발을 위한 LLM 기반 질문 생성 및 보정 엔진 개발 |
-| **3) Skill** | Python, PyTorch, Cafe24, FastAPI, HuggingFace, LangChain |
-| **4) 주요 역할** | **AI Engineer**<br>- LLM 기반 질문 생성 엔진 개발<br>- SLM 기반 질문 보정 엔진 설계·구현 |
-
----
-
-### [B2B · ERP 솔루션] 스마트운수솔루션 (키키아이주식회사)
-| 항목 | 내용 |
-|---|---|
-| **서비스명 / 회사명** | 스마트운수솔루션 / 키키아이주식회사 |
-| **1) 작업기간 / 인원** | 2022.08 ~ 2023.08 / 5명 ~ 7명 |
-| **2) 업무 개요** | 운수업체 운영 효율화를 위한 ERP 및 자동화 로직 개발 |
-| **3) Skill** | Python, React, AWS, Flask, FastAPI, MySQL, Docker |
-| **4) 주요 역할** | **Data Scientist / Web Developer**<br>- 자동배차 로직, 자동 휴무 신청 로직 개선<br>- 운행·휴게시간 계산 핵심 로직 개발<br>- 복수 노선·스케줄 조합 로직 설계<br>- ERP 웹 화면 개발 (차량 관리, 근무 상태 관리, 홈/알림 UI) |
-
+| 프로젝트 카테고리 | 서비스명 / 회사명 | 작업기간 / 인원 | 업무 개요 | Skill | 주요 역할 |
+|---|---|---|---|---|---|
+| 웰니스 · AI 스타트업 | 가려움추적기 / (주)딜랏 | 2024.10 ~ 2025.09<br>2명 ~ 6명 | 피부질환 관리를 위한 모바일 앱 및 AI 기반 분석 시스템 전반 설계·구현 | Flutter, React, Python, PyTorch, AWS, FastAPI, MySQL, Docker, LangChain, PlatformIO | **테크 리더 (기술 총괄)**<br>- 시계열 예측 및 요인 분석 AI 모델 설계·개발 (진행 중)<br>- Python FastAPI 기반 서버 개발 및 서비스 운영<br>- LLM 기반 챗봇 서버 개발 (MVP)<br>- Flutter 기반 모바일 앱 개발 (MVP)<br>- 휴대용 온·습도 센서 HW/SW 개발 (MVP) |
+| AI · 앱 서비스 창업 | 휴튼 / 개인 프로젝트 | 2023.08 ~ 2024.09<br>2명 | 자기계발을 위한 LLM 기반 질문 생성 및 보정 엔진 개발 | Python, PyTorch, Cafe24, FastAPI, HuggingFace, LangChain | **AI Engineer**<br>- LLM 기반 질문 생성 엔진 개발<br>- SLM 기반 질문 보정 엔진 설계·구현 |
+| B2B · ERP 솔루션 | 스마트운수솔루션 / 키키아이주식회사 | 2022.08 ~ 2023.08<br>5명 ~ 7명 | 운수업체 운영 효율화를 위한 ERP 및 자동화 로직 개발 | Python, React, AWS, Flask, FastAPI, MySQL, Docker | **Data Scientist / Web Developer**<br>- 자동배차 로직, 자동 휴무 신청 로직 개선<br>- 운행·휴게시간 계산 핵심 로직 개발<br>- 복수 노선·스케줄 조합 로직 설계<br>- ERP 웹 화면 개발 (차량 관리, 근무 상태 관리, 홈/알림 UI) |
 
 
 ---
@@ -106,24 +79,11 @@
 
 ---
 
-### 🎓 경희대학교 · 복잡계 정보이론 연구실 (석사 졸업)
-| 항목 | 내용 |
-|---|---|
-| 연구 분야 | 다양한 시계열 데이터에서의 **신기록 경신 통계이론(Record Statistics)** 연구 |
-| 이론 모델 | - Random Walk<br>- Drifted Random Walk<br>- Drifted Random Walk with non-zero origin staying probability |
-| 실증 데이터 | - KRX 한국 주식시장 종가 데이터<br>- 서울시 부동산 시장 거래가격 데이터 |
-| 네트워크 이론 | Graph 기반 Network Theory 학습 및 C 언어 구현 |
-| 구현한 네트워크 | - Periodic squared lattice<br>- Erdős–Rényi random network<br>- Barabási–Albert network<br>- Static network |
-| 시뮬레이션 | - Multi-state voter model (Potts model)<br>- Axelrod Model (문화 전파 모형) |
-| 인프라 구축 | 시뮬레이션 전용 CPU 병렬 연산 서버 구축<br>- Fedora Server<br>- OpenMPI<br>- RAID 시스템 구성 |
+| 구분 | 소속 / 학위 | 기간 | 학점 | 연구·전공 분야 | 세부 내용 |
+|---|---|---|---|---|---|
+| 석사 | 경희대학교 · 복잡계 정보이론 연구실<br>(석사 졸업) | 2020.09 ~ 2022.08 | 3.9 / 4.3 | 시계열 이론 · 복잡계 | **연구 분야**: 신기록 경신 통계이론 (Record Statistics)<br>**이론 모델**: Random Walk, Drifted Random Walk, Drifted RW with non-zero origin staying probability<br>**실증 데이터**: KRX 주식 종가, 서울시 부동산 거래가격<br>**네트워크 이론**: Graph 기반 Network Theory (C 구현)<br>**구현 네트워크**: Periodic squared lattice, Erdős–Rényi, Barabási–Albert, Static network<br>**시뮬레이션**: Multi-state voter model (Potts), Axelrod Model<br>**인프라**: Fedora Server, OpenMPI, RAID 기반 CPU 병렬 연산 서버 구축 |
+| 학사 | 경희대학교 · 물리학과<br>(학사 졸업) | 2014.03 ~ 2020.08 | 3.3 / 4.3 | 물리학 | **이수 과목**: 정보물리학 (Python), 전산물리학 (Ubuntu, C, OpenGL) |
 
----
-
-### 🎓 경희대학교 · 물리학과 (학사 졸업)
-| 항목 | 내용 |
-|---|---|
-| 전공 | 물리학 |
-| 이수 과목 | - 정보물리학 (Python)<br>- 전산물리학 (Ubuntu, C, OpenGL) |
 
 
 ---
